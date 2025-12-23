@@ -7,7 +7,7 @@ export default function Home() {
             <h2 className="text-3xl md:text-xl xl:text-[1.7rem] font-bold text-nero-green-900">Bareng Nerolusi</h2>
 
             <h2 className="text-lg md:text-xl xl:text-[1.7rem] font-bold mt-3">
-              Bisa Ngerti TKA, Masuk kampus <br className="hidden xl:block" />
+              Dapet Skor SNBT/UTBK 700+, Masuk kampus <br className="hidden xl:block" />
               impian & bikin orang tua bangga...
             </h2>
 
@@ -15,7 +15,7 @@ export default function Home() {
 
             <div className="lg:mt-10">
               <button className="bg-nero-green-800 py-2 px-4 rounded-3xl text-white font-bold hover:bg-green-700 transition-colors duration-300 text-xs md:text-[0.6rem] lg:text-lg">
-                <a href="https://bit.ly/Nerolusi-INTI-TKA2025">Join Kelas!</a>
+                <a href="#products">Lihat Paket!</a>
               </button>
 
               <button className="bg-nero-green-200 py-2 px-4 rounded-3xl text-white font-bold hover:bg-green-500 transition-colors duration-300 text-xs md:text-[0.6rem] lg:text-lg ml-2">

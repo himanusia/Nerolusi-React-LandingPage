@@ -61,7 +61,7 @@ export default function Header() {
 
             <li>
               <a href="#products" className="text-white sm:text-black hover:text-gray-500 transition-all duration-400 font-semibold text-sm md:text-[0.7rem] lg:text-sm">
-                Produk
+                Paket/Harga
               </a>
             </li>
 
@@ -79,7 +79,7 @@ export default function Header() {
 
             <div className="flex flex-col gap-y-2 sm:flex-row sm:gap-x-2 pr-16 sm:pr-0">
               <button className="bg-nero-green-800 py-2 px-4 rounded-3xl text-white font-bold hover:bg-green-700 transition-colors duration-300 text-xs md:text-[0.7rem] lg:text-sm">
-                <a href="https://bit.ly/Nerolusi-INTI-TKA2025">Join Kelas!</a>
+                <a href="#products">Lihat Paket!</a>
               </button>
 
               <button className="bg-nero-green-200 py-2 px-4 rounded-3xl text-white font-bold hover:bg-green-500 transition-colors duration-300 text-xs md:text-[0.7rem] lg:text-sm">
