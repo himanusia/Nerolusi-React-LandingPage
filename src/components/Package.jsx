@@ -24,7 +24,7 @@ export default function Package() {
               <h1 className="text-sm md:text-xl text-center font-bold leading-tight">
                 Go-TBK <br /> SMA
                 <span className="block text-[0.5rem] md:text-xs font-light">Akses Hingga Pelaksanaan SNBT/UTBK</span>
-                <span className="block text-sm md:text-xl font-bold line-through text-gray-200">1.200.000</span>
+                <span className="block text-sm md:text-xl font-bold line-through text-gray-200">600.000</span>
               </h1>
 
               <h1 className="flex flex-col items-center px-8 text-xl md:text-4xl text-red-400 font-bold md:mb-3">

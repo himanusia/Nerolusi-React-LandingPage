@@ -83,7 +83,7 @@ export default function Header() {
               </button>
 
               <button className="bg-nero-green-200 py-2 px-4 rounded-3xl text-white font-bold hover:bg-green-500 transition-colors duration-300 text-xs md:text-[0.7rem] lg:text-sm">
-                <a href="https://test2.nerolusi.com">E-Learning</a>
+                <a href="#">E-Learning</a>
               </button>
             </div>
           </ul>
