@@ -22,6 +22,10 @@ export default function Home() {
                 <a href="https://nerolusi.site">E-Learning</a>
               </button>
             </div>
+
+            <button className="mt-2 bg-red-600 py-2 px-4 rounded-3xl text-white font-bold hover:bg-red-400 transition-colors duration-300 text-xs md:text-[0.6rem] lg:text-lg">
+              <a href="https://nerolusi.site">Registrasi Free TRY OUT#1!</a>
+            </button>
           </div>
 
           <div className="mb-0">
